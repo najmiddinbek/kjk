@@ -3,7 +3,7 @@ import TopicsList from "@/components/TopicsList";
 export default function Home() {
   return (
     <>
-      {/* < TopicsList /> */}
+      < TopicsList />
       <h1>Salom hammaga</h1>
     </>
   )
